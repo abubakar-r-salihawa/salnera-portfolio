@@ -1200,11 +1200,6 @@ function AdminDashboard() {
             </Button>
           </form>
 
-          <div className="mt-6 text-center">
-            <p className="text-xs text-gray-500">
-              Demo password: <code className="px-2 py-1 bg-white/5 rounded text-gray-400">salnera2024</code>
-            </p>
-          </div>
         </div>
       </section>
     );
